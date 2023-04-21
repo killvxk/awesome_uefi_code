@@ -135,6 +135,19 @@ https://github.com/Neverous/efibooteditor
 
 https://github.com/pgaskin/bootnext
 
+https://github.com/siemens/efibootguard
+
+https://github.com/ajxs/uefi-elf-bootloader
+
+https://github.com/Kostr/smbios_blob_transfer
+
+https://github.com/assafcarlsbad/efi_dxe_emulator
+
+https://github.com/Wind-River/meta-secure-core
+
+https://github.com/LongSoft/UEFITool
+
+
 ## DOCS
 
 https://github.com/Dunky-Z/uefi-spec-zh
@@ -152,6 +165,8 @@ https://github.com/tianocore-training/Tianocore_Training_Contents
 https://github.com/0voice/dpdk_engineer_manual
 
 https://github.com/dortania/Getting-Started-With-ACPI
+
+https://github.com/Kostr/UEFI-Lessons
 
 
 ## BIOS
@@ -188,3 +203,5 @@ https://github.com/acidanthera/OpenCorePkg
 
 https://github.com/acidanthera/audk
 
+## FUZZ
+https://github.com/Sentinel-One/efi_fuzz
