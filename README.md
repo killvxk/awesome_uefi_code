@@ -93,6 +93,25 @@ https://github.com/multipath-tcp/mptcp
 
 https://github.com/corthon/secure_boot_manager
 
+https://github.com/MickeyMeowMeowHouse/UefiDisplayBitmap
+
+https://github.com/CloverHackyColor/CloverBootloader
+
+https://github.com/VirtualMonitor/VirtualMonitor
+
+https://github.com/TheTumultuousUnicornOfDarkness/CPU-X
+
+https://github.com/luobing/Foxdisk3
+
+https://github.com/pbatard/uefi-ntfs
+
+https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk
+
+https://github.com/xCuri0/ReBarUEFI
+
+https://github.com/xCuri0/AmiBoardInfoTool
+
+
 ## DOCS
 
 https://github.com/Dunky-Z/uefi-spec-zh
@@ -101,6 +120,15 @@ https://github.com/liuwei142536/BMC_file
 
 https://github.com/luobing/uefi-practical-programming
 
+https://github.com/tianocore-training/Presentation_FW
+
+https://github.com/tianocore-training/Lab_Material_FW
+
+https://github.com/tianocore-training/Tianocore_Training_Contents
+
+https://github.com/0voice/dpdk_engineer_manual
+
+https://github.com/dortania/Getting-Started-With-ACPI
 
 
 ## BIOS
@@ -132,4 +160,8 @@ https://github.com/marktsai0316/RAIDOOBMODULE
 https://github.com/SanDisk-Open-Source/SSD_Dashboard
 
 https://github.com/marktsai0316/MyUDK2018v2
+
+https://github.com/acidanthera/OpenCorePkg
+
+https://github.com/acidanthera/audk
 
