@@ -111,6 +111,29 @@ https://github.com/xCuri0/ReBarUEFI
 
 https://github.com/xCuri0/AmiBoardInfoTool
 
+https://github.com/yeggor/uefi_retool
+
+https://github.com/intel/tdx-tools
+
+https://github.com/openbmc/skeleton
+
+https://github.com/rhboot/shim
+
+https://github.com/Zero-Tang/NoirVisor
+
+https://github.com/ajkhoury/UEFI-Bootkit
+
+https://github.com/andreiw/UefiToolsPkg
+
+https://github.com/Yannis4444/Matrix-rEFInd
+
+https://github.com/yabits/uefi
+
+https://github.com/sandrokeil/yubikey-full-disk-encryption-secure-boot-uefi
+
+https://github.com/Neverous/efibooteditor
+
+https://github.com/pgaskin/bootnext
 
 ## DOCS
 
