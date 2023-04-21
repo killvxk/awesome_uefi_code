@@ -79,6 +79,25 @@ https://github.com/ColinIanKing/fwts
 
 https://github.com/xapi-project/varstored
 
+https://github.com/tabacha/univention-corporate-server
+
+https://github.com/andyvand/sbsigntool_osx
+
+https://github.com/sartura/u-boot
+
+https://github.com/phrack/sbsigntools
+
+https://github.com/T-Systems-MMS/tpmsbsigntool
+
+https://github.com/multipath-tcp/mptcp
+
+https://github.com/corthon/secure_boot_manager
+
+## DOCS
+
+https://github.com/Dunky-Z/uefi-spec-zh
+
+https://github.com/liuwei142536/BMC_file
 
 ## BIOS
 
@@ -107,4 +126,6 @@ https://github.com/killvxk/LoginDemo
 https://github.com/marktsai0316/RAIDOOBMODULE
 
 https://github.com/SanDisk-Open-Source/SSD_Dashboard
+
+https://github.com/marktsai0316/MyUDK2018v2
 
