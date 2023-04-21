@@ -99,6 +99,10 @@ https://github.com/Dunky-Z/uefi-spec-zh
 
 https://github.com/liuwei142536/BMC_file
 
+https://github.com/luobing/uefi-practical-programming
+
+
+
 ## BIOS
 
 https://github.com/liuwei142536/BIOS_Amesterdam
