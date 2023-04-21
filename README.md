@@ -77,6 +77,8 @@ https://github.com/Andy-Python-Programmer/aero
 
 https://github.com/ColinIanKing/fwts
 
+https://github.com/xapi-project/varstored
+
 
 ## BIOS
 
@@ -85,4 +87,24 @@ https://github.com/liuwei142536/BIOS_Amesterdam
 https://github.com/raywu-aaeon/KabyLake_DW08
 
 https://github.com/jmpoep/ElkhartLake_Silicon_reference_and_Platform_Sample_Code
+
+https://github.com/jmpoep/KabylakeSiliconPkg_3_8_0
+
+https://github.com/jmpoep/dcpae_uefi_firmware-purley
+
+https://github.com/jmpoep/BP_Mehlow_Server
+
+https://github.com/jmpoep/apl-i_sic_1.1.1_v227_51_d20190502
+
+https://github.com/LongJohnCoder/CHX-002
+
+https://github.com/raywu-aaeon/Ryzen2000_4000
+
+https://github.com/raywu-aaeon/BayTrail_2000
+
+https://github.com/killvxk/LoginDemo
+
+https://github.com/marktsai0316/RAIDOOBMODULE
+
+https://github.com/SanDisk-Open-Source/SSD_Dashboard
 
